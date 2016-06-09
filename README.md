@@ -1,10 +1,17 @@
 # Yep
+## About
 With Yep you become the ultimate Jepoardy host for your friends. You can create a game with your own set of questions, or choose from a predefined set of real Jeopardy questions (from the JService API). Your friends can connect to your game using their phone, which then acts as a buzzer, or you can handle everything manually using the UI controls.
 
-**Authors**
-Axel Niklasson (axelni[at]student.chalmers.se), David Bergström (davbe[at]student.chalmers.se), Marcus Trigell (trigell[at]student.chalmers.se) and Tobias Andersen (tobiaa[at]student.chalmers.se).  
-  
 Built with the service based approach using React JS, Redux, CSS modules and postcss on the frontend, all bundled with Webpack, which also gives us hot reloading. The backend is built using Java Spring with Spring Boot, JPA and Hibernate with a MySQL database that is run either locally or by using [DB4Free](http://www.db4free.net) as database host.
+
+## Authors
+Yep was developed during the course Web applications (DAT076) at Chalmers University of Technology, during early 2016. Below you can find the authors.
+
+
+* [David Bergström](https://github.com/davidbergstrom)
+* [Marcus Trigell](https://github.com/marcustrigell)
+* [Tobias Andersen](https://github.com/tobiasandersen)
+* [Axel Niklasson](https://github.com/axelniklasson)
 
 ## Documentation
 This README serves as the main documentation of the application.
